@@ -1,1 +1,28 @@
 /* your code here */
+.top{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	background-color: gray;
+	color:white;
+	padding:6px 26px;
+	font-size:18px;
+	font-family:cursive;
+}
+.content{
+	background-color:black;
+	height:300px;
+	color:white;
+	font-family:cursive;
+}
+.logo_name{
+	font-size: 36px;
+}
+.logo-details{
+	margin:26px 46px;
+}
