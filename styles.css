@@ -16,7 +16,7 @@
 }
 .content{
 	background-color:black;
-	height:300px;
+	height:360px;
 	color:white;
 	font-family:cursive;
 }
@@ -25,4 +25,14 @@
 }
 .logo-details{
 	margin:26px 46px;
+}
+th{
+	font-size:20px;
+	text-decoration:underline;
+}
+td{
+	padding:6px 46px;
+}
+table{
+	width:100%;
 }
